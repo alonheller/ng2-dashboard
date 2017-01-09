@@ -18,6 +18,7 @@
       "prefix": "app",
       "mobile": false,
       "styles": [
+        "../node_modules/normalize.css/normalize.css",
         "styles.scss",
         "../node_modules/ag-grid/dist/styles/ag-grid.css",
         "../node_modules/ag-grid/dist/styles/theme-dark.css",
